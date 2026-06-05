@@ -17,3 +17,6 @@ The `.chp` format is a image file extension, supporting a 16x16 resolution with 
 ## Viewing CHP
 
 Attached in this repo is `chp-viewer.py`, which can display any valid `.chp` file in your terminal. Simply do the command `python chp-viewer.py` or `python3 chp-viewer.py` if you are on Linux.
+
+<img width="767" height="495" alt="image" src="https://github.com/user-attachments/assets/887a0f1b-706b-4676-bc10-a787b8d2157c" />
+
